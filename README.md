@@ -102,11 +102,11 @@ print(classification_report(y_test, y_pred))
 ```
 
 ## Output:
-![alt text](o1.png)
+![image](https://github.com/user-attachments/assets/55b5d46a-2551-4429-8e81-ada3acb341ed)
 
-![alt text](o2.png)
+![image](https://github.com/user-attachments/assets/89cbe459-6745-4ed4-96d7-8ea9d61d0c78)
 
-![alt text](o3.png)
+![image](https://github.com/user-attachments/assets/e9452a0e-9420-469c-911a-b42dc7d70e25)
 
 
 ## Result:
